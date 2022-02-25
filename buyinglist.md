@@ -30,12 +30,14 @@ there are cheaper options but these are the ones that were  designed for): \
 19x Normal M2x5mm countersink screws
 ## Links:
 - [Amazon](https://www.amazon.ca/dp/B01DKI6VD8/ref=cm_sw_em_r_mt_dp_56JH1SA1011BSS61MMYA)
+- [Aliexpress(Thanks to HorusRogue)](https://www.aliexpress.com/item/1005003644532417.html)
 
 # BARREL
 10cm of 13mm ID, 16mm OD or 5/8" OD tubes:
 ## Links
 ### 13mm ID, 16mm OD:
 - [Amazon](https://www.amazon.ca/gp/product/B07YCHB4WG/)
+- [Another Amazon Store](https://www.amazon.ca/dp/B09MH41777/)
 ### Aliexpress Alternatives:
 - [Aliexpress](https://www.aliexpress.com/item/4000760986211.html) (Not avaiable as of 21/03/2021)
 
@@ -57,6 +59,10 @@ You will need:
 ### Alternatively, you can get an assortment on Aliexpress:
 - [Some options for the catch spring](https://www.aliexpress.com/item/33052942305.html)
 - [Some extension springs](https://www.aliexpress.com/item/32858975154.html)
+
+# MAIN SPRING
+ " 1.8mm + 100mm + 19mm"
+[Aliexpress] (https://www.aliexpress.com/item/1005002433114931.html) this one (Creator has confirmed 19mm should fit)
 
 # PLUNGER HEAD PADDING
 silicone/rubber would be better but felt should be fine
