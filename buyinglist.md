@@ -23,7 +23,6 @@ there are cheaper options but these are the ones that were  designed for): \
 ## Links:
 - [Amazon Link](https://www.amazon.ca/dp/B087N4LVD1/ref=cm_sw_em_r_mt_dp_3YKE4Y67773ZCQG4DRZX)
 ### Aliexpress Alternatives:
-- [100 Pcs](https://www.aliexpress.com/item/4001185849382.html)
 - [50 pcs](https://www.aliexpress.com/item/4000826134336.html)
 
 # MOTOR SCREWS
@@ -37,9 +36,8 @@ there are cheaper options but these are the ones that were  designed for): \
 ## Links
 ### 13mm ID, 16mm OD:
 - [Amazon](https://www.amazon.ca/gp/product/B07YCHB4WG/)
-- [Another Amazon Store](https://www.amazon.ca/dp/B09MH41777/)
 ### Aliexpress Alternatives:
-- [Aliexpress](https://www.aliexpress.com/item/4000760986211.html) (Not avaiable as of 21/03/2021)
+- [Aliexpress](https://www.aliexpress.com/item/4000760986211.html)
 
 # PLUNGER TUBE 
 27mm ID, 30mm OD aluminum tube
@@ -57,7 +55,7 @@ You will need:
 
 - [Amazon Kit](https://www.amazon.ca/dp/B000K7M36W/ref=cm_sw_em_r_mt_dp_3XYWW3317XSSH2QMXG356)
 ### Alternatively, you can get an assortment on Aliexpress:
-- [Some options for the catch spring](https://www.aliexpress.com/item/33052942305.html)
+- [Some options for the catch spring ](https://www.aliexpress.com/item/1005003784805422.html) (20mm should be close enough)
 - [Some extension springs](https://www.aliexpress.com/item/32858975154.html)
 
 # MAIN SPRING
